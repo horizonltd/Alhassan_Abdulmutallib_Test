@@ -28,7 +28,7 @@ The Project was handled usin python programming language
 2. While Question C has two modules which are dependant of each other, to test the flow of the program,
     mainProgram.py should be run either using terminal or any IDE like VSCODE.
 
-## Note: While testing Question C, the project folder most be imported separately in any IDE, unlike the A and B questions,
+#### Note: While testing Question C, the project folder most be imported separately in any IDE, unlike the A and B questions,
 
     that to say:
         Question C folder only.

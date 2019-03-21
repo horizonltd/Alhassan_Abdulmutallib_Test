@@ -14,7 +14,7 @@ library that can be integrated to the Ormuco stack. Dealing with network issues 
 
 ## SOLUTION
 
-The Project was handled usin python programming language
+The Project was handled using python programming language
 
 1. First Question was solved using simple functions (Method), using intercepter algorithms. 
 2. While Question two was handled using if else statement.

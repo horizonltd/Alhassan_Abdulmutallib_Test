@@ -19,7 +19,8 @@ The Project was handled usin python programming language
 1. First Question was solved using simple functions (Method), using intercepter algorithms. 
 2. While Question two was handled using if else statement.
 3. Question Three was mainly a library which uses LRU Cache for a recursive execution of the script
-    a. The solution simulated  normal network environment, whereby a lot of nods are connected to a network server
+   
+   a. The solution simulated  normal network environment, whereby a lot of nods are connected to a network server
         either locally, or remotely. The solution determined the latency and number of nods in each network
 
 ## How to run the programs
